@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR1d0046/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR1d0046/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天子肆獻祼饋食禮
+  date: '2015-08-24 22:09:35.757475'
+  source:
+    repository: kanripo
+    path: KR1d0046
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1d0046_000-WYG.yaml, hash: 'sha256:5582b23fb0f5ba7d26ef28a43603b82ee2dd32552f0f46004a326946a2ad850d'}
+  - {seq: 1, filename: KR1d0046_001-WYG.yaml, hash: 'sha256:10c07cb3d68976d5964f2d3587adca11c47fa89de02583e7b79d4e576002ea00'}
+  - {seq: 2, filename: KR1d0046_002-WYG.yaml, hash: 'sha256:64c4e85ae320a3459e83981aca00a8a9896e6e1d2df134285a806df7e94c26ed'}
+  - {seq: 3, filename: KR1d0046_003-WYG.yaml, hash: 'sha256:7fda899baafb0336ec4dd1446c91f2174af1cfc32777893804f691f849162345'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1d0046_000-WYG.markers.yaml, hash: 'sha256:83f5e02f6738ff6f09be8e4199f592282ebad19dbaaaa36ce10564ace304b281'}
+  - {seq: 1, role: markers, filename: assets/KR1d0046_001-WYG.markers.yaml, hash: 'sha256:fe0944eec0362f1377403e252a7a4d8a832090396b532e9957c35034485da6a7'}
+  - {seq: 2, role: markers, filename: assets/KR1d0046_002-WYG.markers.yaml, hash: 'sha256:2ff6be5c6bccfd0d233e9c77ba733efe15696c530ea4ef0d45d762e446e6233b'}
+  - {seq: 3, role: markers, filename: assets/KR1d0046_003-WYG.markers.yaml, hash: 'sha256:9ca80ba9a3cce29e6a1c70260ac175c9497b24fb2ed276b884b9a194cc93aefa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1d0046_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 2133
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1d0046_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 13509
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1d0046_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 10518
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1d0046_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 13874
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:3bfe1b45fe1da802037f9d60efaeac80b0e8f125e8966b18f0c447d848ca9a03
